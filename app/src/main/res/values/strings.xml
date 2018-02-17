@@ -1,0 +1,18 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JustJava</string>
+
+    <!-- Header text for the list of toppins [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+    <string name="thank_you">Thank You!</string>
+
+    <!--
+        name for the order summary. It will be shown in the format of "Name: Aditya" where Aditya is the
+        user's name. [CHAR LIMIT=NONE]
+        -->
+    <string name="order_summary_name">name <xliff:g example="Aditya" id="name">%s</xliff:g></string>
+</resources>
+
+    <!-- code for spanish can be found here
+
+    https://gist.github.com/udacityandroid/759b8b4c9ed9e6806e90 -->
+
