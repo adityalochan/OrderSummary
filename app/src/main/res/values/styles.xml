@@ -9,6 +9,7 @@
         <item name="colorPrimaryDark">#009688</item>
         <!-- Theme UI controls like checkboxes and text fields -->
         <item name="colorAccent">#536DFE</item>
+        <item name="android:textColor">#64B5F6</item>
     </style>
 
     <!-- Style for header text in the order form -->
